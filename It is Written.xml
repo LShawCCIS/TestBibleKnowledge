@@ -1,0 +1,386 @@
+<?xml version="1.0"?>
+<TQS VERSION="2.0" EDITABLE="1">
+  <TITLE>It is Written</TITLE>
+  <AUTHORINFO
+    AUTHOR="Richard Bunner"
+  />
+
+  <TQSWINDOW
+    WIDTH="1020"
+    HEIGHT="820"
+    FONT="Copperplate31ab"
+    TEXTCOLOR="yellow"
+    SELCOLOR="#00FFFF"
+    BGCOLOR="#0E2FB1"
+    BGIMG="background.gif"
+   />
+  <GLOBAL>
+    <QUESTIONS SCRAMBLEANS="1"
+     SHOWSCORE="1">
+      <INCORRECT INSERT="@">Oops! The correct answer is @.</INCORRECT>
+    </QUESTIONS>
+  </GLOBAL>
+
+
+  />
+  <LOCATIONS START="0">
+    <LOC ID="0" TYPE="MENU">
+      <HEADING>Welcome to Bible Questions!</HEADING>
+      <MENU NUMBERS="1">
+        <INSTR>Select an item from the menu below</INSTR>
+        <MENUITEM
+          TITLE="Questions Level I"
+          TARGET="1"
+	/>
+        <MENUITEM
+          TITLE="Questions Level II"
+          TARGET="2"
+	/>
+        <MENUITEM
+	  TITLE="Questions Level III"
+	  TARGET="3"
+        />
+        <MENUITEM
+	  TITLE="Questions Level IV"
+	  TARGET="4"
+	/>
+
+      </MENU>
+    </LOC>
+    <LOC ID="1" TYPE="QUESTIONS">
+      <HEADING>Questions Level I</HEADING>
+      <BUTTON TITLE="Restart" TARGET="1"/>
+      <BUTTON TITLE="Main Menu" TARGET="0"/>
+      <QUESTIONS>
+
+        <QUESTION>
+
+          <Q>What was the name of the Giant that David Battled?</Q>
+          <ANSWER CORRECT="1">Goliath</ANSWER>
+          <ANSWER>Saul</ANSWER>
+          <ANSWER>Shaq</ANSWER>
+          <ANSWER>Jolly Green</ANSWER>
+        </QUESTION>
+        <QUESTION>
+          <Q>What Did God Tell Noah to Build?</Q>
+          <ANSWER CORRECT="1">An Ark</ANSWER>
+          <ANSWER>A City</ANSWER>
+          <ANSWER>A Bridge</ANSWER>
+          <ANSWER>An Aquarium</ANSWER>
+        </QUESTION>
+        <QUESTION>
+          <Q>What was the name of Cain’s brother that he murdered out of Jealousy?</Q>
+          <ANSWER CORRECT = "1">Abel</ANSWER>
+          <ANSWER>Adam</ANSWER>
+          <ANSWER>David</ANSWER>
+          <ANSWER>Seth</ANSWER>
+        </QUESTION>
+        <QUESTION>
+          <Q>What city was Jesus born in?</Q>
+          <ANSWER CORRECT="1">Bethlehem</ANSWER>
+          <ANSWER>Jerusalem</ANSWER>
+          <ANSWER>New York City</ANSWER>
+          <ANSWER>Galilee</ANSWER>
+        </QUESTION>
+        <QUESTION>
+          <Q>Who is God's Only Begotten Son?</Q>
+          <ANSWER CORRECT="1">Jesus</ANSWER>
+          <ANSWER>Satan</ANSWER>
+          <ANSWER>Moses</ANSWER>
+          <ANSWER>Roger</ANSWER>
+        </QUESTION>
+        <QUESTION>
+          <Q>Who Does God Love?</Q>
+          <ANSWER CORRECT="1">The Whole World</ANSWER>
+          <ANSWER>No one</ANSWER>
+          <ANSWER>Only the Jews</ANSWER>
+          <ANSWER>Only Americans</ANSWER>
+        </QUESTION>
+        <QUESTION>
+          <Q>What Does the Bible Consist of?</Q>
+          <ANSWER CORRECT="1">God's Words to Mankind</ANSWER>
+          <ANSWER>A Bunch of World History</ANSWER>
+          <ANSWER>Nothing Important</ANSWER>
+          <ANSWER>Information to Jews and Christians Only</ANSWER>
+        </QUESTION>
+        <QUESTION>
+          <Q>What was Jonah Swallowed By?</Q>
+          <ANSWER CORRECT="1">A Whale (Great Fish)</ANSWER>
+          <ANSWER>A Shark</ANSWER>
+          <ANSWER>T-Rex</ANSWER>
+          <ANSWER>A Dragon</ANSWER>
+        </QUESTION>
+        <QUESTION>
+          <Q>What Were the Names of the First Man and Woman in the Bible?</Q>
+          <ANSWER CORRECT="1">Adam and Eve</ANSWER>
+          <ANSWER>Abraham and Sarah</ANSWER>
+          <ANSWER>Joesph and Mary</ANSWER>
+          <ANSWER>Ronald and Nancy</ANSWER>
+        </QUESTION>
+        <QUESTION>
+          <Q>What did Jesus die on?</Q>
+          <ANSWER CORRECT="1">The Cross</ANSWER>
+          <ANSWER>The Battlefield</ANSWER>
+          <ANSWER>The Floor</ANSWER>
+          <ANSWER>The Road</ANSWER>
+        </QUESTION>
+      </QUESTIONS>
+
+    </LOC>
+    <LOC ID="2" TYPE="QUESTIONS">
+      <HEADING>Questions Level II</HEADING>
+      <BUTTON TITLE="Restart" TARGET="1"/>
+      <BUTTON TITLE="Main Menu" TARGET="0"/>
+      <QUESTIONS>
+        <QUESTION>
+          <Q>On what day did Jesus arise from the dead?</Q>
+          <ANSWER CORRECT="1">Sunday (First Day of the Week)</ANSWER>
+          <ANSWER>Saturday (Sabbath Day)</ANSWER>
+          <ANSWER>Monday</ANSWER>
+          <ANSWER>Thursday</ANSWER>
+        </QUESTION>
+        <QUESTION>
+          <Q>How many wise men came to worship Jesus when he was young?</Q>
+          <ANSWER>3</ANSWER>
+          <ANSWER>1000</ANSWER>
+          <ANSWER CORRECT="1">The Bible Does Not Say How Many</ANSWER>
+          <ANSWER>42</ANSWER>
+        </QUESTION>
+        <QUESTION>
+          <Q>How many churches did Jesus build?</Q>
+          <ANSWER CORRECT="1">1</ANSWER>
+          <ANSWER>1.7 Billion</ANSWER>
+          <ANSWER>12</ANSWER>
+          <ANSWER>All Churches are Branches of Jesus</ANSWER>
+        </QUESTION>
+        <QUESTION>
+          <Q>Which Mountain Did God Give the Law to Moses?</Q>
+          <ANSWER CORRECT="1">Mount Sinai</ANSWER>
+          <ANSWER>Mount Everest</ANSWER>
+          <ANSWER>Mount Gilboa</ANSWER>
+          <ANSWER>Mount Rushmore</ANSWER>
+        </QUESTION>
+        <QUESTION>
+          <Q>Who first saw Jesus when He arose from the dead?</Q>
+          <ANSWER CORRECT="1">Mary Magdalene</ANSWER>
+          <ANSWER>Peter</ANSWER>
+          <ANSWER>John</ANSWER>
+          <ANSWER>Paul</ANSWER>
+        </QUESTION>
+        <QUESTION>
+          <Q>How Do We Show Our Love For Christ?</Q>
+          <ANSWER CORRECT="1">Keep His Commandments</ANSWER>
+          <ANSWER>Wear Jewelry and T-Shirts With A Cross On Them</ANSWER>
+          <ANSWER>Name Buildings After Him</ANSWER>
+          <ANSWER>Tell Everyone What You Do For Jesus</ANSWER>
+        </QUESTION>
+        <QUESTION>
+          <Q>How many total times did the armies of Israel march around the city of Jericho?</Q>
+          <ANSWER CORRECT="1">13</ANSWER>
+          <ANSWER>7</ANSWER>
+          <ANSWER>1</ANSWER>
+          <ANSWER>Square root of pi</ANSWER>
+        </QUESTION>
+        <QUESTION>
+          <Q>What was Saul of Tarsus told to do to wash away his Sins?</Q>
+          <ANSWER CORRECT="1">Be Baptized</ANSWER>
+          <ANSWER>Have Faith</ANSWER>
+          <ANSWER>Pray the Sinner’s prayer</ANSWER>
+          <ANSWER>Watch TV</ANSWER>
+        </QUESTION>
+        <QUESTION>
+          <Q>How Many People Did Jesus Feed with 5 Loaves and 2 Fish?</Q>
+          <ANSWER CORRECT="1">5,000</ANSWER>
+          <ANSWER>537</ANSWER>
+          <ANSWER>100,000</ANSWER>
+          <ANSWER>2,500</ANSWER>
+        </QUESTION>
+        <QUESTION>
+          <Q>How Often Should Christians Be Encouraging One Another?</Q>
+          <ANSWER CORRECT="1">Daily</ANSWER>
+          <ANSWER>When the Preacher Tells You To In His Sermon</ANSWER>
+          <ANSWER>Christmas and Easter</ANSWER>
+          <ANSWER>Every Sunday</ANSWER>
+        </QUESTION>
+
+      </QUESTIONS>
+
+    </LOC>
+    <LOC ID="3" TYPE="QUESTIONS">
+      <HEADING>Questions Level III</HEADING>
+      <BUTTON TITLE="Restart" TARGET="1"/>
+      <BUTTON TITLE="Main Menu" TARGET="0"/>
+      <QUESTIONS>
+        <QUESTION>
+          <Q>How many people did Jesus raise from the dead? (Not including himself)</Q>
+          <ANSWER CORRECT="1">3</ANSWER>
+          <ANSWER>7</ANSWER>
+          <ANSWER>2</ANSWER>
+          <ANSWER>1</ANSWER>
+        </QUESTION>
+        <QUESTION>
+          <Q>How Much Money Does the Bible Say Christians Should Give to the Church?</Q>
+          <ANSWER CORRECT="1">As They Have Prospered</ANSWER>
+          <ANSWER>20%</ANSWER>
+          <ANSWER>10%</ANSWER>
+          <ANSWER>The Church Tells Them How Much to Give</ANSWER>
+        </QUESTION>
+        <QUESTION>
+          <Q>What are Two Qualifications For Someone to Become a Pastor (or Elder) in the Church?</Q>
+          <ANSWER CORRECT="1">Married to One Wife and Faithful Children</ANSWER>
+          <ANSWER>Under 30 Years Old and Argumentative</ANSWER>
+          <ANSWER>College Degree and 5 Years Experience</ANSWER>
+          <ANSWER>Good Public Speaker and Extroverted Personality</ANSWER>
+        </QUESTION>
+        <QUESTION>
+          <Q>Where was the apostle Paul born?</Q>
+          <ANSWER CORRECT="1">Tarsus</ANSWER>
+          <ANSWER>Boston</ANSWER>
+          <ANSWER>Jerusalem</ANSWER>
+          <ANSWER>Shiloh</ANSWER>
+        </QUESTION>
+        <QUESTION>
+          <Q>Which Old Testament prophet did Peter quote on the day of Pentecost?</Q>
+          <ANSWER CORRECT="1">Joel</ANSWER>
+          <ANSWER>Daniel</ANSWER>
+          <ANSWER>Isaiah</ANSWER>
+          <ANSWER>John</ANSWER>
+        </QUESTION>
+        <QUESTION>
+          <Q>Which book in the Bible does not mention God?</Q>
+          <ANSWER CORRECT="1">Esther</ANSWER>
+          <ANSWER>Job</ANSWER>
+          <ANSWER>Lamentations</ANSWER>
+          <ANSWER>Judges</ANSWER>
+        </QUESTION>
+        <QUESTION>
+          <Q>Who said, "Go away from me, Lord; I am a sinful man?</Q>
+          <ANSWER CORRECT="1">Peter</ANSWER>
+          <ANSWER>Judas</ANSWER>
+          <ANSWER>Barabbas</ANSWER>
+          <ANSWER>Ahab</ANSWER>
+        </QUESTION>
+        <QUESTION>
+          <Q>Who is the Head of the Church?</Q>
+          <ANSWER CORRECT="1">Jesus</ANSWER>
+          <ANSWER>The Pope</ANSWER>
+          <ANSWER>Democratic Participation Among Church Goers</ANSWER>
+          <ANSWER>The Pastor</ANSWER>
+        </QUESTION>
+        <QUESTION>
+          <Q>What New Name Were The Disciples Called in Antioch In the Early Days of the Church?</Q>
+          <ANSWER CORRECT="1">Christians</ANSWER>
+          <ANSWER>Baptists</ANSWER>
+          <ANSWER>Mormons </ANSWER>
+          <ANSWER>Followers</ANSWER>
+        </QUESTION>
+        <QUESTION>
+          <Q>How Does God Speak To Every Person Today?</Q>
+          <ANSWER>Through Experiences and Miracles</ANSWER>
+          <ANSWER>Through Modern Day Prophets and Preachers</ANSWER>
+          <ANSWER CORRECT="1">Through Jesus, the Apostles, and Inspired Writers of the New Testament</ANSWER>
+          <ANSWER>Through Dreams</ANSWER>
+        </QUESTION>
+        <QUESTION>
+          <Q>Which one of these men went to Heaven without dying?</Q>
+          <ANSWER CORRECT="1">Enoch</ANSWER>
+          <ANSWER>Abraham</ANSWER>
+          <ANSWER>Moses</ANSWER>
+          <ANSWER>David</ANSWER>
+        </QUESTION>
+        <QUESTION>
+          <Q>How many people saw Jesus after He arose from the dead?</Q>
+          <ANSWER CORRECT="1">More than 500</ANSWER>
+          <ANSWER>12</ANSWER>
+          <ANSWER>120</ANSWER>
+          <ANSWER>3</ANSWER>
+        </QUESTION>
+
+
+      </QUESTIONS>
+    </LOC>
+    <LOC ID="4" TYPE="QUESTIONS">
+      <HEADING>Questions Level IV</HEADING>
+      <BUTTON TITLE="Restart" TARGET="1"/>
+      <BUTTON TITLE="Main Menu" TARGET="0"/>
+      <QUESTIONS>
+        <QUESTION>
+          <Q>Malachi prophesied of the return of which Prophet?</Q>
+          <ANSWER CORRECT="1">Elijah</ANSWER>
+          <ANSWER>Elisha</ANSWER>
+          <ANSWER>Isaiah</ANSWER>
+          <ANSWER>Jeremiah</ANSWER>
+        </QUESTION>
+        <QUESTION>
+          <Q>What Church Leadership Position did Paul and Barnabas Appoint in Every Church?</Q>
+          <ANSWER CORRECT="1">Elders(or Pastors)</ANSWER>
+          <ANSWER>Preachers(or Evangelists)</ANSWER>
+          <ANSWER>Deacons</ANSWER>
+          <ANSWER>Teachers</ANSWER>
+        </QUESTION>
+        <QUESTION>
+          <Q>What person is the book of Philemon about?</Q>
+          <ANSWER CORRECT="1">Onesimus</ANSWER>
+          <ANSWER>Silas</ANSWER>
+          <ANSWER>James</ANSWER>
+          <ANSWER>Peter</ANSWER>
+        </QUESTION>
+        <QUESTION>
+          <Q>How many sons did Abraham have?</Q>
+          <ANSWER CORRECT="1">8</ANSWER>
+          <ANSWER>12</ANSWER>
+          <ANSWER>5</ANSWER>
+          <ANSWER>2</ANSWER>
+        </QUESTION>
+        <QUESTION>
+          <Q>What 2 tribes of Israel were not named after sons of Jacob?</Q>
+          <ANSWER CORRECT="1">Ephraim and Manasseh</ANSWER>
+          <ANSWER>Joseph and Benjamin</ANSWER>
+          <ANSWER>Issachar and Dan</ANSWER>
+          <ANSWER>Reuben and Judah</ANSWER>
+        </QUESTION>
+        <QUESTION>
+          <Q>Which of David's sons tried to take the kingdom from his father?</Q>
+          <ANSWER CORRECT="1">Absalom</ANSWER>
+          <ANSWER>Amnon</ANSWER>
+          <ANSWER>Joab</ANSWER>
+          <ANSWER>Abner</ANSWER>
+        </QUESTION>
+        <QUESTION>
+          <Q>Which Tribe of Israel Couldn't Say "Shibboleth"?</Q>
+          <ANSWER CORRECT="1">Ephraim</ANSWER>
+          <ANSWER>Benjamin</ANSWER>
+          <ANSWER>Judah</ANSWER>
+          <ANSWER>Issachar</ANSWER>
+        </QUESTION>
+        <QUESTION>
+          <Q>What Did Jesus Use For the Lord’s Supper (The Communion Meal)?</Q>
+          <ANSWER CORRECT="1">One Loaf of Unleavened Bread and One Cup of Fruit of the Vine</ANSWER>
+          <ANSWER>Pizza and Pepsi</ANSWER>
+          <ANSWER>Crackers and Wine</ANSWER>
+          <ANSWER>Every Person Ate Their Own Bread and Wine</ANSWER>
+        </QUESTION>
+        <QUESTION>
+          <Q>On what day were the fish and birds created?</Q>
+          <ANSWER CORRECT="1">Five</ANSWER>
+          <ANSWER>Three</ANSWER>
+          <ANSWER>Four</ANSWER>
+          <ANSWER>First</ANSWER>
+        </QUESTION>
+        <QUESTION>
+          <Q>Which Prophesied King Helped Israel return to their homeland after 70 years of captivity?</Q>
+          <ANSWER CORRECT="1">Cyrus</ANSWER>
+          <ANSWER>Nebuchadnezzar</ANSWER>
+          <ANSWER>Sennacherib</ANSWER>
+          <ANSWER>Alexander the Great</ANSWER>
+        </QUESTION>
+
+      </QUESTIONS>
+
+    </LOC>
+
+
+  </LOCATIONS>
+
+
+</TQS>

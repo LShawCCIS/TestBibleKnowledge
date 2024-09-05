@@ -1,0 +1,387 @@
+<?xml version="1.0"?>
+<TQS VERSION="2.0" EDITABLE="1">
+  <TITLE>It is Written</TITLE>
+  <AUTHORINFO
+    AUTHOR="Richard Bunner"
+  />
+  
+  <TQSWINDOW
+    WIDTH="1020"
+    HEIGHT="820"
+    FONT="Copperplate31ab"
+    TEXTCOLOR="yellow"
+    SELCOLOR="#00FFFF"
+    BGCOLOR="#0E2FB1"
+    BGIMG="background.gif"
+   />
+   <GLOBAL>
+     <QUESTIONS SCRAMBLEANS="1" 
+      SHOWSCORE="1">
+      <CORRECT>That's Correct! </CORRECT>
+      <INCORRECT INSERT="@">Wrong the correct answer is@.</INCORRECT>
+    </QUESTIONS>
+   </GLOBAL>
+
+
+    />
+<LOCATIONS START="0">
+  <LOC ID="0" TYPE="MENU">
+    <HEADING>BIENVENIDO AL QUESTIONARIO DE LA BIBLIA!</HEADING>
+    <MENU NUMBERS="1">
+	<INSTR>Seleccione un articulo</INSTR>
+	<MENUITEM
+	  TITLE="Nivel de Preguntas I"
+	  TARGET="1"
+	/>
+	<MENUITEM
+	  TITLE="Nivel de Preguntas II"
+	  TARGET="2"
+	/>
+        <MENUITEM
+	  TITLE="Nivel de Preguntas III"
+	  TARGET="3"
+        />
+        <MENUITEM
+	  TITLE="Nivel de Preguntas IV"
+	  TARGET="4"
+	/>
+        
+    </MENU>
+  </LOC>
+  <LOC ID="1" TYPE="preguntas">
+    <HEADING></HEADING>
+    <BUTTON TITLE="" TARGET="1"/>
+    <BUTTON TITLE="" TARGET="0"/>
+   <QUESTIONS>
+    <INCORRECT INSERT="@"></INCORRECT>
+      
+    <QUESTION>
+          <Q></Q>
+          <ANSWER></ANSWER>
+          <ANSWER CORRECT="1"></ANSWER>
+          <ANSWER></ANSWER>
+          <ANSWER></ANSWER>
+        </QUESTION>
+    <QUESTION>
+          <Q></Q>
+          <ANSWER></ANSWER>
+          <ANSWER></ANSWER>
+          <ANSWER></ANSWER>
+          <ANSWER CORRECT="1"></ANSWER>
+        </QUESTION>
+    <QUESTION>
+          <Q></Q>
+          <ANSWER></ANSWER>
+          <ANSWER></ANSWER>
+          <ANSWER></ANSWER>
+          <ANSWER CORRECT="1"></ANSWER>
+        </QUESTION>
+    <QUESTION>
+          <Q></Q>
+          <ANSWER></ANSWER>
+          <ANSWER CORRECT="1"></ANSWER>
+          <ANSWER></ANSWER>
+          <ANSWER></ANSWER>
+        </QUESTION>
+    <QUESTION>
+          <Q></Q>
+          <ANSWER></ANSWER>
+          <ANSWER></ANSWER>
+          <ANSWER></ANSWER>
+          <ANSWER CORRECT="1"></ANSWER>
+        </QUESTION>
+    <QUESTION>
+          <Q></Q>
+          <ANSWER></ANSWER>
+          <ANSWER></ANSWER>
+          <ANSWER></ANSWER>
+          <ANSWER CORRECT="1"></ANSWER>
+        </QUESTION>
+    <QUESTION>
+          <Q></Q>
+          <ANSWER></ANSWER>
+          <ANSWER></ANSWER>
+          <ANSWER></ANSWER>
+          <ANSWER CORRECT="1"></ANSWER>
+        </QUESTION>
+    <QUESTION>
+          <Q></Q>
+          <ANSWER></ANSWER>
+          <ANSWER></ANSWER>
+          <ANSWER></ANSWER>
+          <ANSWER CORRECT="1"></ANSWER>
+        </QUESTION>
+    <QUESTION>
+          <Q></Q>
+          <ANSWER></ANSWER>
+          <ANSWER></ANSWER>
+          <ANSWER></ANSWER>
+          <ANSWER CORRECT="1"></ANSWER>
+        </QUESTION>
+        ...
+   </QUESTIONS> 
+
+  </LOC>
+  <LOC ID="2" TYPE="QUESTIONS">
+    <HEADING></HEADING>
+    <BUTTON TITLE="" TARGET="1"/>
+    <BUTTON TITLE="" TARGET="0"/>
+    <QUESTIONS>
+      <QUESTION>
+          <Q></Q>
+          <ANSWER></ANSWER>
+          <ANSWER></ANSWER>
+          <ANSWER CORRECT="1"></ANSWER>
+          <ANSWER></ANSWER>
+        </QUESTION>
+	<QUESTION>
+          <Q></Q>
+          <ANSWER></ANSWER>
+          <ANSWER></ANSWER>
+          <ANSWER CORRECT="1"></ANSWER>
+          <ANSWER></ANSWER>
+        </QUESTION>  
+	<QUESTION>
+          <Q></Q>
+          <ANSWER></ANSWER>
+          <ANSWER></ANSWER>
+          <ANSWER CORRECT="1"></ANSWER>
+          <ANSWER></ANSWER>
+        </QUESTION>
+	<QUESTION>
+          <Q></Q>
+          <ANSWER></ANSWER>
+          <ANSWER></ANSWER>
+          <ANSWER CORRECT="1"></ANSWER>
+          <ANSWER></ANSWER>
+        </QUESTION>
+	<QUESTION>
+          <Q></Q>
+          <ANSWER></ANSWER>
+          <ANSWER></ANSWER>
+          <ANSWER CORRECT="1"></ANSWER>
+          <ANSWER></ANSWER>
+        </QUESTION>
+	<QUESTION>
+          <Q></Q>
+          <ANSWER></ANSWER>
+          <ANSWER></ANSWER>
+          <ANSWER CORRECT="1"></ANSWER>
+          <ANSWER></ANSWER>
+        </QUESTION>
+	<QUESTION>
+          <Q></Q>
+          <ANSWER></ANSWER>
+          <ANSWER></ANSWER>
+          <ANSWER CORRECT="1"></ANSWER>
+          <ANSWER></ANSWER>
+        </QUESTION>
+	<QUESTION>
+          <Q></Q>
+          <ANSWER></ANSWER>
+          <ANSWER></ANSWER>
+          <ANSWER CORRECT="1"></ANSWER>
+          <ANSWER></ANSWER>
+        </QUESTION>
+	<QUESTION>
+          <Q></Q>
+          <ANSWER></ANSWER>
+          <ANSWER></ANSWER>
+          <ANSWER CORRECT="1"></ANSWER>
+          <ANSWER></ANSWER>
+        </QUESTION>
+	<QUESTION>
+          <Q></Q>
+          <ANSWER></ANSWER>
+          <ANSWER></ANSWER>
+          <ANSWER CORRECT="1"></ANSWER>
+          <ANSWER></ANSWER>
+        </QUESTION>
+	
+     </QUESTIONS>
+
+  </LOC>
+ <LOC ID="3" TYPE="QUESTIONS">
+    <HEADING></HEADING>
+    <BUTTON TITLE="" TARGET="1"/>
+    <BUTTON TITLE="" TARGET="0"/>
+    <QUESTIONS>
+        <QUESTION>
+          <Q></Q>
+          <ANSWER></ANSWER>
+          <ANSWER></ANSWER>
+          <ANSWER CORRECT="1"></ANSWER>
+          <ANSWER></ANSWER>
+        </QUESTION>
+        <QUESTION>
+          <Q></Q>
+          <ANSWER></ANSWER>
+          <ANSWER></ANSWER>
+          <ANSWER CORRECT="1"></ANSWER>
+          <ANSWER></ANSWER>
+        </QUESTION>
+        <QUESTION>
+          <Q></Q>
+          <ANSWER></ANSWER>
+          <ANSWER></ANSWER>
+          <ANSWER CORRECT="1"></ANSWER>
+          <ANSWER></ANSWER>
+        </QUESTION>
+        <QUESTION>
+          <Q></Q>
+          <ANSWER></ANSWER>
+          <ANSWER></ANSWER>
+          <ANSWER CORRECT="1"></ANSWER>
+          <ANSWER></ANSWER>
+        </QUESTION>
+	<QUESTION>
+          <Q></Q>
+          <ANSWER></ANSWER>
+          <ANSWER></ANSWER>
+          <ANSWER CORRECT="1"></ANSWER>
+          <ANSWER></ANSWER>
+        </QUESTION>
+	<QUESTION>
+          <Q></Q>
+          <ANSWER></ANSWER>
+          <ANSWER></ANSWER>
+          <ANSWER CORRECT="1"></ANSWER>
+          <ANSWER></ANSWER>
+        </QUESTION>
+	<QUESTION>
+          <Q></Q>
+          <ANSWER></ANSWER>
+          <ANSWER></ANSWER>
+          <ANSWER CORRECT="1"></ANSWER>
+          <ANSWER></ANSWER>
+        </QUESTION>
+	<QUESTION>
+          <Q></Q>
+          <ANSWER></ANSWER>
+          <ANSWER></ANSWER>
+          <ANSWER CORRECT="1"></ANSWER>
+          <ANSWER></ANSWER>
+        </QUESTION>
+	<QUESTION>
+          <Q></Q>
+          <ANSWER></ANSWER>
+          <ANSWER></ANSWER>
+          <ANSWER CORRECT="1"></ANSWER>
+          <ANSWER></ANSWER>
+        </QUESTION>
+	<QUESTION>
+          <Q></Q>
+          <ANSWER></ANSWER>
+          <ANSWER></ANSWER>
+          <ANSWER CORRECT="1"></ANSWER>
+          <ANSWER></ANSWER>
+        </QUESTION>
+	<QUESTION>
+          <Q></Q>
+          <ANSWER></ANSWER>
+          <ANSWER></ANSWER>
+          <ANSWER CORRECT="1"></ANSWER>
+          <ANSWER></ANSWER>
+        </QUESTION>
+	<QUESTION>
+          <Q></Q>
+          <ANSWER></ANSWER>
+          <ANSWER></ANSWER>
+          <ANSWER CORRECT="1"></ANSWER>
+          <ANSWER></ANSWER>
+        </QUESTION>
+	
+
+     </QUESTIONS>
+   </LOC>
+ <LOC ID="4" TYPE="QUESTIONS">
+    <HEADING></HEADING>
+    <BUTTON TITLE="" TARGET="1"/>
+    <BUTTON TITLE="" TARGET="0"/>
+    <QUESTIONS>
+ 	<QUESTION>
+          <Q></Q>
+          <ANSWER></ANSWER>
+          <ANSWER></ANSWER>
+          <ANSWER CORRECT="1"></ANSWER>
+          <ANSWER></ANSWER>
+        </QUESTION>
+	<QUESTION>
+          <Q></Q>
+          <ANSWER></ANSWER>
+          <ANSWER></ANSWER>
+          <ANSWER></ANSWER>
+          <ANSWER CORRECT="1"></ANSWER>
+        </QUESTION>
+	<QUESTION>
+          <Q></Q>
+          <ANSWER></ANSWER>
+          <ANSWER></ANSWER>
+          <ANSWER></ANSWER>
+          <ANSWER CORRECT="1"></ANSWER>
+        </QUESTION>
+	<QUESTION>
+          <Q></Q>
+          <ANSWER></ANSWER>
+          <ANSWER></ANSWER>
+          <ANSWER></ANSWER>
+          <ANSWER CORRECT="1"></ANSWER>
+        </QUESTION>
+	<QUESTION>
+          <Q></Q>
+          <ANSWER></ANSWER>
+          <ANSWER></ANSWER>
+          <ANSWER></ANSWER>
+          <ANSWER CORRECT="1"></ANSWER>
+        </QUESTION>
+	<QUESTION>
+          <Q></Q>
+          <ANSWER></ANSWER>
+          <ANSWER></ANSWER>
+          <ANSWER></ANSWER>
+          <ANSWER CORRECT="1"></ANSWER>
+        </QUESTION>
+	<QUESTION>
+          <Q></Q>
+          <ANSWER></ANSWER>
+          <ANSWER></ANSWER>
+          <ANSWER></ANSWER>
+          <ANSWER CORRECT="1"></ANSWER>
+        </QUESTION>
+	<QUESTION>
+          <Q></Q>
+          <ANSWER></ANSWER>
+          <ANSWER></ANSWER>
+          <ANSWER></ANSWER>
+          <ANSWER CORRECT="1"></ANSWER>
+        </QUESTION>
+	<QUESTION>
+          <Q></Q>
+          <ANSWER></ANSWER>
+          <ANSWER></ANSWER>
+          <ANSWER></ANSWER>
+          <ANSWER CORRECT="1"></ANSWER>
+        </QUESTION>
+	<QUESTION>
+          <Q></Q>
+          <ANSWER></ANSWER>
+          <ANSWER></ANSWER>
+          <ANSWER></ANSWER>
+          <ANSWER CORRECT="1"></ANSWER>
+        </QUESTION>
+	<QUESTION>
+          <Q></Q>
+          <ANSWER></ANSWER>
+          <ANSWER></ANSWER>
+          <ANSWER></ANSWER>
+          <ANSWER CORRECT="1"></ANSWER>
+        </QUESTION>
+
+     </QUESTIONS>
+
+  </LOC>
+
+</LOCATIONS>
+
+
+</TQS>
